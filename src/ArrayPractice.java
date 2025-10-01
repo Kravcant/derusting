@@ -1,3 +1,4 @@
+/* Name: Anthony Kravchishin */
 import java.util.*;
 
 public class ArrayPractice {
